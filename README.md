@@ -1,6 +1,6 @@
 <h3 align="center">A passionate software developer from The Netherlands</h3>
 <p align="left">
-My name is Trung-Kien Nguyen, I'm an 18-year-old software developer currently in my second year at Bit Academy in Purmerend, The Netherlands. I have a passion for coding and am always curious to learn new things.
+My name is Trung-Kien Nguyen, I'm an 18-year-old software developer currently in my second year at Bit Academy. I have a passion for coding and am always curious to learn new things.
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
